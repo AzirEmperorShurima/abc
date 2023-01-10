@@ -1,0 +1,6 @@
+thang  123456	admin
+vanthang  123456	user
+tin  123456	user
+tri  123456	admin
+minh  123456	user
+tuan  123456	beginner

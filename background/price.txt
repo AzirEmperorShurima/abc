@@ -1,0 +1,10 @@
+cti	10000  milktea
+cti	10000  milktea
+cti	10000  coffee
+cti	10000  coffee
+cti	10000  cake
+cti	10000  cake
+ưew	544  milktea
+ưew	544  coffee
+ưew	544  cake
+cuttrau	10000  cake
